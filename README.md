@@ -2,7 +2,6 @@
  
 > Proiect academic realizat în cadrul cursului **Econometrie Avansată**  
 > Academia de Studii Economice din București | Facultatea de Cibernetică, Statistică și Informatică Economică  
-> Studenți: **Constantin Teodor-Vasile**, **Nițu Vlad-Cristian**
  
 ---
  
