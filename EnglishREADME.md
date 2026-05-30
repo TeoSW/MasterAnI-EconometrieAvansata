@@ -2,7 +2,6 @@
 
 > Academic project for the course **Advanced Econometrics**  
 > Bucharest University of Economic Studies (ASE) | Faculty of Cybernetics, Statistics and Economic Informatics  
-> Authors: **Constantin Teodor-Vasile**, **Nițu Vlad-Cristian**
 
 ---
 
